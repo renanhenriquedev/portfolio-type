@@ -1,0 +1,24 @@
+header {
+  padding: 50px;
+  /* espaçamento */
+
+}
+
+
+header img {
+  /* esse combinador (header+img) é usado pra area do header, se tivesse so img, ia padronizar todas as imagens */
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+
+}
+
+
+header,
+footer {
+  background-color: #563c59;
+  text-align: center;
+  color: white;
+
+
+}

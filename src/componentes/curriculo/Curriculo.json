@@ -1,0 +1,44 @@
+{
+    "resumo": "Olá, Me chamo Renan, Sou um desenvolvedor em crescimento, Tenho 20 anos e atualmente estudo programação por conta propria almejando ser um desenvolverdor Back End, Demasiadamente focado para estudar.",
+    "experienciaAcademica": [
+        {
+            "titulo": "Desenvolvimento de Sistemas na ETE",
+            "dataInicio": "2018",
+            "dataFim": "2020"
+        },
+        {
+            "titulo": "Analise e Desenvolvimento de Sistemas",
+            "dataInicio": "2022",
+            "dataFim": "2025"
+        },
+        {
+            "titulo": "Lógica de Programação os primeiros programas com Javascript e HTML (Alura)",
+            "dataInicio": "2022",
+            "dataFim": "2022"
+        },
+        {
+            "titulo": "Foco tranzendo mais resultados para o dia a dia (Alura)",
+            "dataInicio": "2022",
+            "dataFim": "2022"
+        },
+        {
+            "titulo": "Git e Github controle e compartilhe seu código, (Alura)",
+            "dataInicio": "2022",
+            "dataFim": "2022"
+        },
+        {
+            "titulo": "Cursando Comeia Academy",
+            "dataInicio": "2023",
+            "dataFim": "2023"
+        }
+    ],
+
+
+    "experienciaProfissional": [
+        {
+            "titulo": "Auxiliar de escritório em Aumeri Tabosa Escritório Contábil",
+            "dataInicio": "2020",
+            "dataFim": "2023"
+        }
+    ]
+}
