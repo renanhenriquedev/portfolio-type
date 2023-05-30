@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL : 'https://json-serve-ktqo.onrender.com',
+    baseURL : 'https://site-pessoal-api-9wf6.onrender.com/api',
 });
 
 export default api;
